@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+.hello {
+    color: red;
+    background: url('./png/icon.png');
+}
+body{
+    background: red;
+}
